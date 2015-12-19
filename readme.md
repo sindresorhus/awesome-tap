@@ -1,7 +1,7 @@
 # Awesome TAP [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [<img src="https://testanything.org/images/tap.png" width="67" align="right">](https://testanything.org)
 
 
-> Useful resources for the [Test Anything Protocol](https://testanything.org)  
+> Useful resources for the [Test Anything Protocol](https://testanything.org)
 > A simple text-based interface between testing modules in a test harness
 
 *The list is very JavaScript focused right now. That's only because I'm only familiar with TAP stuff in this world. Contributions welcome for any language.*
@@ -28,6 +28,10 @@
 - [tap-notify](https://github.com/axross/tap-notify) - Notifier for OS X, Linux and Windows.
 - [tap-json](https://github.com/gummesson/tap-json) - JSON output.
 - [tap-xunit](https://github.com/aghassemi/tap-xunit) - xUnit output.
+
+### Ruby
+
+- [bacon](https://github.com/chneukirchen/bacon) - A small testing protocol for Ruby, less than 350 LOC.
 
 
 ## Producers
