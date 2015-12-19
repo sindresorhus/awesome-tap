@@ -53,6 +53,7 @@ Things that consume TAP output.
 
 ### JavaScript
 
+- [tap-finished](https://github.com/substack/tap-finished) - TAP parser.
 - [tap-parser](https://github.com/substack/tap-parser) - TAP parser.
 - [tap-out](https://github.com/scottcorgan/tap-out) - TAP parser.
 - [yamlish](https://github.com/isaacs/yamlish) - YAML-block parser.
