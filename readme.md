@@ -45,6 +45,10 @@ Things that produce TAP output.
 - [jasmine-reporters](https://github.com/larrymyers/jasmine-reporters) - TAP output for Jasmine.
 - [karma-tap-reporter](https://github.com/fumiakiy/karma-tap-reporter) - TAP output for Karma.
 
+## Fish
+
+- [Fishtape](https://github.com/fisherman/fishtape) - TAP producer and test harness for fish. `$ fishtape test/*`
+
 [More...](https://testanything.org/producers.html)
 
 
