@@ -45,6 +45,9 @@ Things that produce TAP output.
 - [jasmine-reporters](https://github.com/larrymyers/jasmine-reporters) - TAP output for Jasmine.
 - [karma-tap-reporter](https://github.com/fumiakiy/karma-tap-reporter) - TAP output for Karma.
 
+### C++
+- [Spinal Tap](https://github.com/0x00a/cpp-spinaltap) - This is "Spinal TAP" for C++
+
 ## Fish
 
 - [Fishtape](https://github.com/fisherman/fishtape) - TAP producer and test harness for fish.
