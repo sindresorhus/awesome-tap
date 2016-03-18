@@ -28,6 +28,7 @@
 - [tap-notify](https://github.com/axross/tap-notify) - Notifier for OS X, Linux and Windows.
 - [tap-json](https://github.com/gummesson/tap-json) - JSON output.
 - [tap-xunit](https://github.com/aghassemi/tap-xunit) - xUnit output.
+- [tap-teamcity](https://github.com/smockle/tap-teamcity) - Output for TeamCity.
 
 
 ## Producers
