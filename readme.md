@@ -1,7 +1,7 @@
 # Awesome TAP [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [<img src="https://testanything.org/images/tap.png" width="67" align="right">](https://testanything.org)
 
 
-> Useful resources for the [Test Anything Protocol](https://testanything.org)  
+> Useful resources for the [Test Anything Protocol](https://testanything.org)<br>
 > A simple text-based interface between testing modules in a test harness
 
 *The list is very JavaScript focused right now. That's just because I'm only familiar with TAP stuff in the JS world. Contributions welcome for any language.*
@@ -47,7 +47,7 @@ Things that produce TAP output.
 - [karma-tap-reporter](https://github.com/fumiakiy/karma-tap-reporter) - TAP output for Karma.
 - [mos](https://github.com/zkochan/mos) - Markdown file generator and tester. `$ mos test --tap`
 
-## Fish
+### Fish
 
 - [Fishtape](https://github.com/fisherman/fishtape) - TAP producer and test harness for fish.
 
@@ -92,14 +92,14 @@ Things that consume TAP output.
 ## Documentation
 
 - [Specification](https://testanything.org/tap-version-13-specification.html)
-- [Wikipedia article](https://en.wikipedia.org/wiki/Test_Anything_Protocol)
+- [Wikipedia](https://en.wikipedia.org/wiki/Test_Anything_Protocol)
 
 
 ## Community
 
 - [Discuss](https://github.com/TestAnything/Specification/issues)
 - [Reddit](https://www.reddit.com/r/testanythingprotocol)
-- [StackOverflow](http://stackoverflow.com/questions/tagged/tap)
+- [Stack Overflow](http://stackoverflow.com/questions/tagged/tap)
 
 
 ## License
