@@ -45,6 +45,7 @@ Things that produce TAP output.
 - [qunit-tap](https://github.com/twada/qunit-tap) - TAP output for QUnit.
 - [jasmine-reporters](https://github.com/larrymyers/jasmine-reporters) - TAP output for Jasmine.
 - [karma-tap-reporter](https://github.com/fumiakiy/karma-tap-reporter) - TAP output for Karma.
+- [mos](https://github.com/zkochan/mos) - A markdown file generator and tester. `$ mos test --tap`
 
 ## Fish
 
