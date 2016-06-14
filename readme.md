@@ -25,7 +25,7 @@
 - [tap-prettify](https://github.com/toolness/tap-prettify) - Nice readable output with diffing.
 - [tap-colorize](https://github.com/substack/tap-colorize) - Colorize the output while preserving machine-readability.
 - [tap-bail](https://github.com/juliangruber/tap-bail) - Bail out when the first test fails.
-- [tap-notify](https://github.com/axross/tap-notify) - Notifier for OS X, Linux and Windows.
+- [tap-notify](https://github.com/axross/tap-notify) - Notifier for macOS, Linux and Windows.
 - [tap-json](https://github.com/gummesson/tap-json) - JSON output.
 - [tap-xunit](https://github.com/aghassemi/tap-xunit) - xUnit output.
 - [tap-teamcity](https://github.com/smockle/tap-teamcity) - Output for TeamCity.
