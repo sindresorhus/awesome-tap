@@ -67,6 +67,10 @@ Things that produce TAP output.
 
 - [bats](https://github.com/sstephenson/bats) - Bash Automated Testing System.
 
+## Fish
+
+- [Fishtape](https://github.com/fisherman/fishtape) - TAP producer and test harness for fish. `$ fishtape test/*`
+
 [More...](https://testanything.org/producers.html)
 
 
