@@ -32,6 +32,7 @@
 - [tap-simple](https://github.com/joeybaker/tap-simple) - Simple output.
 - [faucet](https://github.com/substack/faucet) - Human-readable summarizer.
 - [tap-mocha-reporter](https://github.com/isaacs/tap-mocha-reporter) - Use any of the [Mocha reporters](https://github.com/isaacs/tap-mocha-reporter/tree/master/lib/reporters).
+- [tap-mochawesome-reporter](https://github.com/darvin/tap-mochawesome-reporter) - Output JSON for consumption by [Mochawesome](https://github.com/adamgruber/mochawesome-report-generator) HTML report generator
 - [tap-summary](https://github.com/zoubin/tap-summary) - Summarized output.
 - [tap-pessimist](https://github.com/clux/tap-pessimist) - Only shows failed tests.
 - [tap-prettify](https://github.com/toolness/tap-prettify) - Nice readable output with diffing.
