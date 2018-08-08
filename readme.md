@@ -49,15 +49,15 @@ Things that produce TAP output.
 
 ### JavaScript
 
-- [AVA](https://github.com/sindresorhus/ava) - Futuristic test runner. `$ ava --tap`
+- [AVA](https://github.com/sindresorhus/ava) - Futuristic test runner (`$ ava --tap`).
 - [tap](https://github.com/isaacs/node-tap) - TAP test framework for Node.js.
 - [tape](https://github.com/substack/tape) - TAP-producing test harness for Node.js and browsers.
-- [ESLint](http://eslint.org/docs/user-guide/formatters/#tap) - Pluggable JavaScript linter. `$ eslint --format=tap`
-- [Mocha](https://mochajs.org) - Feature-rich test framework for Node.js and browsers. `$ mocha reporter=tap`
+- [ESLint](http://eslint.org/docs/user-guide/formatters/#tap) - Pluggable JavaScript linter (`$ eslint --format=tap`).
+- [Mocha](https://mochajs.org) - Feature-rich test framework for Node.js and browsers (`$ mocha reporter=tap`).
 - [qunit-tap](https://github.com/twada/qunit-tap) - TAP output for QUnit.
 - [jasmine-reporters](https://github.com/larrymyers/jasmine-reporters) - TAP output for Jasmine.
 - [karma-tap-reporter](https://github.com/fumiakiy/karma-tap-reporter) - TAP output for Karma.
-- [mos](https://github.com/zkochan/mos) - Markdown file generator and tester. `$ mos test --tap`
+- [mos](https://github.com/zkochan/mos) - Markdown file generator and tester (`$ mos test --tap`).
 
 ### Fish
 
