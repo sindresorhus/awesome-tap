@@ -26,7 +26,7 @@
 - [tap-dot](https://github.com/scottcorgan/tap-dot) - Dotted output.
 - [tap-spec](https://github.com/scottcorgan/tap-spec) - Mocha-like spec reporter.
 - [tap-nyan](https://github.com/calvinmetcalf/tap-nyan) - Nyan cat.
-- [tap-min](https://github.com/gummesson/tap-min) - Minimal output.
+- [tap-min](https://github.com/derhuerst/tap-min) - Minimal output.
 - [tap-difflet](https://github.com/namuol/tap-difflet) - Minimal output with diffing.
 - [tap-diff](https://github.com/axross/tap-diff) - Human-friendly output with diffing.
 - [tap-simple](https://github.com/joeybaker/tap-simple) - Simple output.
