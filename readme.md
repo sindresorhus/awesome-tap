@@ -58,6 +58,7 @@ Things that produce TAP output.
 - [qunit-tap](https://github.com/twada/qunit-tap) - TAP output for QUnit.
 - [jasmine-reporters](https://github.com/larrymyers/jasmine-reporters) - TAP output for Jasmine.
 - [karma-tap-reporter](https://github.com/fumiakiy/karma-tap-reporter) - TAP output for Karma.
+- [zora](https://github.com/lorenzofox3/zora) - ES6 test runner that works like charm without babel.
 - [mos](https://github.com/zkochan/mos) - Markdown file generator and tester (`$ mos test --tap`).
 
 ### Fish
