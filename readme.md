@@ -59,7 +59,7 @@ Things that produce TAP output.
 - [jasmine-reporters](https://github.com/larrymyers/jasmine-reporters) - TAP output for Jasmine.
 - [karma-tap-reporter](https://github.com/fumiakiy/karma-tap-reporter) - TAP output for Karma.
 - [mos](https://github.com/zkochan/mos) - Markdown file generator and tester (`$ mos test --tap`).
-- [zora](https://github.com/lorenzofox3/zora) - TAP-producing test runner that works with ES6 without babel.
+- [zora](https://github.com/lorenzofox3/zora) - TAP-producing test runner that works with ES2015 without Babel.
 
 ### Fish
 
