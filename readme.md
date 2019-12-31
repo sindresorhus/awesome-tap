@@ -1,11 +1,9 @@
 # Awesome TAP [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [<img src="https://testanything.org/images/tap.png" width="67" align="right">](https://testanything.org)
 
-
-> Useful resources for the [Test Anything Protocol](https://testanything.org)<br>
+> Useful resources for the [Test Anything Protocol](https://testanything.org)\
 > A simple text-based interface between testing modules in a test harness
 
 *The list is very JavaScript focused right now. That's just because I'm only familiar with TAP stuff in the JS world. Contributions welcome for any language.*
-
 
 ## Contents
 
@@ -17,7 +15,6 @@
 - [Tutorials](#tutorials)
 - [Documentation](#documentation)
 - [Community](#community)
-
 
 ## Reporters
 
@@ -42,7 +39,6 @@
 - [ava-tap-json](https://github.com/yovasx2/ava-tap-json) - JSON output with AVA compatibility.
 - [tap-xunit](https://github.com/aghassemi/tap-xunit) - xUnit output.
 - [tap-teamcity](https://github.com/smockle/tap-teamcity) - Output for TeamCity.
-
 
 ## Producers
 
@@ -69,8 +65,7 @@ Things that produce TAP output.
 
 - [bats](https://github.com/sstephenson/bats) - Bash Automated Testing System.
 
-[More...](https://testanything.org/producers.html)
-
+[More…](https://testanything.org/producers.html)
 
 ## Consumers
 
@@ -82,8 +77,7 @@ Things that consume TAP output.
 - [tap-out](https://github.com/scottcorgan/tap-out) - TAP parser.
 - [yamlish](https://github.com/isaacs/yamlish) - YAML-block parser.
 
-[More...](https://testanything.org/consumers.html)
-
+[More…](https://testanything.org/consumers.html)
 
 ## Tools
 
@@ -98,32 +92,21 @@ Things that consume TAP output.
 
 - [tappy](https://github.com/mblayman/tappy) - Tools for working with TAP.
 
-
 ## Articles
 
 - [Understand the Test Anything Protocol](http://www.effectiveperlprogramming.com/2011/05/understand-the-test-anything-protocol/)
 
-
 ## Tutorials
 
 - [test-anything](https://github.com/finnp/test-anything) - Learn to test anything with TAP through an interactive workshop.
-
 
 ## Documentation
 
 - [Specification](https://testanything.org/tap-version-13-specification.html)
 - [Wikipedia](https://en.wikipedia.org/wiki/Test_Anything_Protocol)
 
-
 ## Community
 
 - [Discuss](https://github.com/TestAnything/Specification/issues)
 - [Reddit](https://www.reddit.com/r/testanythingprotocol)
 - [Stack Overflow](http://stackoverflow.com/questions/tagged/tap)
-
-
-## License
-
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Sindre Sorhus](http://sindresorhus.com) has waived all copyright and related or neighboring rights to this work.
