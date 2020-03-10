@@ -51,6 +51,7 @@ Things that produce TAP output.
 - [tape](https://github.com/substack/tape) - TAP-producing test harness for Node.js and browsers.
 - [ESLint](http://eslint.org/docs/user-guide/formatters/#tap) - Pluggable JavaScript linter (`$ eslint --format=tap`).
 - [Mocha](https://mochajs.org) - Feature-rich test framework for Node.js and browsers (`$ mocha reporter=tap`).
+- [tea](https://github.com/sc0ttj/tea) - lightweight (4kb) TAP-producing test suite, for Node.js and browsers.
 - [qunit-tap](https://github.com/twada/qunit-tap) - TAP output for QUnit.
 - [jasmine-reporters](https://github.com/larrymyers/jasmine-reporters) - TAP output for Jasmine.
 - [karma-tap-reporter](https://github.com/fumiakiy/karma-tap-reporter) - TAP output for Karma.
