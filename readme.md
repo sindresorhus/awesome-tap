@@ -49,7 +49,7 @@ Things that produce TAP output.
 - [AVA](https://github.com/sindresorhus/ava) - Futuristic test runner (`$ ava --tap`).
 - [tap](https://github.com/isaacs/node-tap) - TAP test framework for Node.js.
 - [tape](https://github.com/substack/tape) - TAP-producing test harness for Node.js and browsers.
-- [ESLint](http://eslint.org/docs/user-guide/formatters/#tap) - Pluggable JavaScript linter (`$ eslint --format=tap`).
+- [ESLint](https://eslint.org/docs/user-guide/formatters/#tap) - Pluggable JavaScript linter (`$ eslint --format=tap`).
 - [Mocha](https://mochajs.org) - Feature-rich test framework for Node.js and browsers (`$ mocha reporter=tap`).
 - [qunit-tap](https://github.com/twada/qunit-tap) - TAP output for QUnit.
 - [jasmine-reporters](https://github.com/larrymyers/jasmine-reporters) - TAP output for Jasmine.
@@ -94,7 +94,7 @@ Things that consume TAP output.
 
 ## Articles
 
-- [Understand the Test Anything Protocol](http://www.effectiveperlprogramming.com/2011/05/understand-the-test-anything-protocol/)
+- [Understand the Test Anything Protocol](https://www.effectiveperlprogramming.com/2011/05/understand-the-test-anything-protocol/)
 
 ## Tutorials
 
@@ -109,4 +109,4 @@ Things that consume TAP output.
 
 - [Discuss](https://github.com/TestAnything/Specification/issues)
 - [Reddit](https://www.reddit.com/r/testanythingprotocol)
-- [Stack Overflow](http://stackoverflow.com/questions/tagged/tap)
+- [Stack Overflow](https://stackoverflow.com/questions/tagged/tap)
