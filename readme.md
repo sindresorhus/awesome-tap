@@ -57,6 +57,10 @@ Things that produce TAP output.
 - [mos](https://github.com/zkochan/mos) - Markdown file generator and tester (`$ mos test --tap`).
 - [zora](https://github.com/lorenzofox3/zora) - TAP-producing test runner that works with ES2015 without Babel.
 
+### Swift
+
+- [TAP](https://github.com/swiftdocorg/tap) - A Swift package for the Test Anything Protocol (v13).
+
 ### Fish
 
 - [Fishtape](https://github.com/fisherman/fishtape) - TAP producer and test harness for fish.
