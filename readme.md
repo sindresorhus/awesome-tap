@@ -1,7 +1,8 @@
 # Awesome TAP [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [<img src="https://testanything.org/images/tap.png" width="67" align="right">](https://testanything.org)
 
-> Useful resources for the [Test Anything Protocol](https://testanything.org)\
-> A simple text-based interface between testing modules in a test harness
+> Useful resources for the [Test Anything Protocol](https://testanything.org)
+
+TAP is a simple text-based interface between testing modules in a test harness.
 
 *The list is very JavaScript focused right now. That's just because I'm only familiar with TAP stuff in the JS world. Contributions welcome for any language.*
 
