@@ -69,7 +69,7 @@ Things that produce TAP output.
 ### Bash
 
 - [bats](https://github.com/sstephenson/bats) - Bash Automated Testing System.
-- [ShellSpec](https://github.com/shellspec/shellspec) - A full-featured BDD unit testing framework for dash, bash, ksh, zsh and all POSIX shells.
+- [ShellSpec](https://github.com/shellspec/shellspec) - A full-featured BDD unit testing framework for POSIX shells.
 
 [More…](https://testanything.org/producers.html)
 
