@@ -57,6 +57,7 @@ Things that produce TAP output.
 - [karma-tap-reporter](https://github.com/fumiakiy/karma-tap-reporter) - TAP output for Karma.
 - [mos](https://github.com/zkochan/mos) - Markdown file generator and tester (`$ mos test --tap`).
 - [zora](https://github.com/lorenzofox3/zora) - TAP-producing test runner that works with ES2015 without Babel.
+- [MATLAB](https://www.mathworks.com/help/matlab/ref/matlab.unittest.plugins.tapplugin-class.html) - Test runner plugin to produce TAP output in MATLAB
 
 ### Swift
 
